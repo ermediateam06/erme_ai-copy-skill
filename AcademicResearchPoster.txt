@@ -1,0 +1,148 @@
+Layout 01
+Academic Research Poster
+description (35-45 kata)
+
+---------------------------
+Introduction
+description (35-45 kata)
+
+---------------------------
+Objective
+description (35-45 kata)
+
+---------------------------
+Methodology
+description (35-45 kata)
+
+---------------------------
+Result
+description (35-45 kata)
+
+---------------------------
+Analysis
+description (35-45 kata)
+
+[Chart style]
+Table name
+name - value
+name - value
+name - value
+name - value
+
+[Chart style]
+Table name
+name - value
+name - value
+name - value
+name - value
+
+[Chart style]
+Table name
+name - value
+name - value
+name - value
+name - value
+
+---------------------------
+Conclusion
+description (35-45 kata)
+
+nama author dan institusi
+
+
+
+layout 2
+Academic Research Poster
+short Description
+
+author name
+institution name
+
+---------------------------
+Introduction
+description (35-45 kata)
+
+---------------------------
+Research
+- Point 1 (10-15 kata)
+- Point 2 (10-15 kata)
+- Point 3 (10-15 kata)
+
+---------------------------
+Methodology
+
+Research:
+description (4-8 kata)
+
+Data Sample:
+description (4-8 kata)
+
+data Collection:
+description (4-8 kata)
+
+---------------------------
+Discussion
+description (35-45 kata)
+
+[Chart style]
+chart name
+name-value
+name-value
+
+
+layout 3
+Academic Research Poster
+short Description
+
+author name
+institution name
+
+--------------------------
+Abstract
+description (20-35 kata)
+
+--------------------------
+Instroduction
+- Point 1 (10-15 kata)
+- Point 2 (10-15 kata)
+- Point 3 (10-15 kata)
+
+---------------------------
+Methodology
+
+sample:
+description (4-8 kata)
+
+Approach:
+description (4-8 kata)
+
+tools:
+description (4-8 kata)
+
+---------------------------
+Discussion
+description (35-45 kata)
+
+---------------------------
+Result
+- Point 1 (10-15 kata)
+- Point 2 (10-15 kata)
+- Point 3 (10-15 kata)
+
+[Chart style]
+chart name
+name-value
+name-value
+name-value
+
+[Chart style]
+chart name
+name-value
+name-value
+name-value
+name-value
+name-value
+
+---------------------------
+Conclusion
+description (35-45 kata)
