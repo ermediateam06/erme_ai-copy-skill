@@ -1,0 +1,23 @@
+Price Format
+
+$ 1,234.56
+¥ 1,234.56
+$ 1.234,56
+1.234,56 $
+1.234,56 Kč
+
+1,234.56 ﷼
+
+
+
+
+$, ¥, kr.,€, HK$, ₹, ₩, RM, .د.م., ₱, R, ฿, £
+
+$, R$, kr, fr.
+
+$, Kč, ₪, Ft, zł, p., ₫
+
+₺, 元 , ﷼
+8.30 add currency details to avoid text looking like a date or time
+
+*Not ALL currencies listed – to determine how countries use commas and decimals in their pricing format, you have to check on each location. Prices are locale dependent and should match your templates locale.
