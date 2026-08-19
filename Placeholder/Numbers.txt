@@ -1,0 +1,6 @@
+Safe-to-use numbers
+You can use ascending combination of 0-9 to generate safe-to-use details for various applications, including account, invoice, or credit card numbers. To make sure your template has optimal usability, try to use the correct quantity of numbers in your template.
+
+16 digit credit card: 0123 4567 8901 2345
+3-5 digit invoice number: 012345
+12 digit account number: 123 4567 8901
