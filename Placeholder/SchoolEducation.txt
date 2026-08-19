@@ -1,0 +1,382 @@
+Placeholder for School or education:
+Little Explorers Academy
+
+Little Explorers Learning Center
+
+Little Explorers Play School
+
+North Academy
+
+North Primary School
+
+North School
+
+North Elementary School
+
+North High School
+
+North Secondary School
+
+North University
+
+North College
+
+South Academy
+
+South Primary School
+
+South School
+
+South Elementary School
+
+South High School
+
+South Secondary School
+
+South University
+
+South College
+
+West Academy
+
+West Primary School
+
+West School
+
+West Elementary School
+
+West High School
+
+West Secondary School
+
+West University
+
+West College
+
+East Academy
+
+East Primary School
+
+East School
+
+East Elementary School
+
+East High School
+
+East Secondary School
+
+East University
+
+East College
+
+Northwest Academy
+
+Northwest Primary School
+
+Northwest School
+
+Northwest Elementary School
+
+Northwest High School
+
+Northwest Secondary School
+
+Northwest University
+
+Northwest College
+
+Southwest Academy
+
+Southwest Primary School
+
+Southwest School
+
+Southwest Elementary School
+
+Southwest High School
+
+Southwest Secondary School
+
+Southwest University
+
+Southwest College
+
+Northeast Academy
+
+Northeast Primary School
+
+Northeast School
+
+Northeast Elementary School
+
+Northeast High School
+
+Northeast Secondary School
+
+Northeast University
+
+Northeast College
+
+Southeast Academy
+
+Southeast Primary School
+
+Southeast School
+
+Southeast Elementary School
+
+Southeast High School
+
+Southeast Secondary School
+
+Southeast University
+
+Southeast College
+
+Western Academy
+
+Western Primary School
+
+Western School
+
+Western Elementary School
+
+Western High School
+
+Western Secondary School
+
+Western University
+
+Western College
+
+Eastern Academy
+
+Eastern Primary School
+
+Eastern School
+
+Eastern Elementary School
+
+Eastern High School
+
+Eastern Secondary School
+
+Eastern University
+
+Eastern College
+
+Northern Academy
+
+Northern Primary School
+
+Northern School
+
+Northern Elementary School
+
+Northern High School
+
+Northern Secondary School
+
+Northern University
+
+Northern College
+
+Southern Academy
+
+Southern Primary School
+
+Southern School
+
+Southern Elementary School
+
+Southern High School
+
+Southern Secondary School
+
+Southern University
+
+Southern College
+
+Oakfield Primary School
+
+Meadowbrook Primary School
+
+Willow Lane Primary School
+
+Rosewood Primary School
+
+Greenway Primary School
+
+Brookside Primary School
+
+Hillcrest Primary School
+
+Sunnyfields Primary School
+
+Maple Grove Primary School
+
+Chestnut Hill Primary School
+
+Foxglove Primary School
+
+Birchwood Primary School
+
+Appleton Primary School
+
+Cloverfields Primary School
+
+Fernbank Primary School
+
+Ivybridge Primary School
+
+Pinemoor Primary School
+
+Hazelbrook Primary School
+
+Bluebell Primary School
+
+Elmstead Primary School
+
+Westbrook Secondary School
+
+Ridgeway High School
+
+Northfield Community School
+
+Eastgate Secondary School
+
+Brookvale High School
+
+Parklands School
+
+Stonebridge School
+
+Greenfields School
+
+Southbrook Secondary School
+
+Moorland High School
+
+Brookfield High School
+
+Westvale Secondary School
+
+Ashdown School
+
+Kingsford High School
+
+Redfield Secondary School
+
+Fairlands School
+
+Northmoor High School
+
+Valley Ridge School
+
+Stonefield High School
+
+Parkview Secondary School
+
+Oakridge Academy
+
+Riverfield Academy
+
+Hillview Academy
+
+Brookstone Academy
+
+Meadowcroft Academy
+
+Northgate Academy
+
+Silverdale Academy
+
+Ashford School
+
+Linden House School
+
+Hawthorne School
+
+Cedar Grove School
+
+Kingswell School
+
+Fairview School
+
+University of Westbridge
+
+University of Northvale
+
+University of Eastborough
+
+University of Southford
+
+University of Greenhill
+
+University of Brookminster
+
+University of Stonebridge
+
+University of Fairchester
+
+University of Westfield
+
+Northgate University
+
+City of Meadowfield University
+
+University of Parkside
+
+University of Hillview
+
+Central Valley University
+
+University of Lakeside
+
+Greenfield University
+
+Oakridge University
+
+Brookstone University
+
+Silvermere University
+
+University of Ashford Vale
+
+Clearview University
+
+Northbridge University
+
+Riverford University
+
+Westbrook College
+
+Northvale College
+
+Riverside College
+
+University of Parklands
+
+Meadowfield Metropolitan University
+
+Greenhill College
+
+Stonebridge College
+
+Brooklands College
+
+Greenfield College
+
+Clearview College
+
+Lakeside College
+
+Woodlands College
+
+Fieldstone College
+
+Springvale College
+
+Glenmore College
+
+Westwood College
